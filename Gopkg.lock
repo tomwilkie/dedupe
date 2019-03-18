@@ -30,11 +30,11 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:445210ef1e723060b3ebeb691648b5090f154992ee35f7065b70a6a5a96a3bb8"
+  digest = "1:04d69739a5e01a32391a952b4243c1308fb875b9ad7302355eb37bbdb8c3e70b"
   name = "github.com/minio/sha256-simd"
   packages = ["."]
   pruneopts = "UT"
-  revision = "51976451ce1942acbb55707a983ed232fa027110"
+  revision = "0d7ea3c244eec47f5b3a765685c5fcfd28031535"
 
 [solve-meta]
   analyzer-name = "dep"
